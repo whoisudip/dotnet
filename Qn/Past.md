@@ -18,6 +18,7 @@
    c) Lambda Expression
 
 **Group C – Attempt any TWO questions. \[2x10 = 20]**
+
 8. Differentiate between struct and enum. Why handle exceptions? Illustrate with your own custom exception.
 9. What is generics? Explain with example. How is virtual method used to achieve polymorphism?
 10. What is DataReader in ADO.NET? Design an application scenario.
@@ -37,6 +38,7 @@
 7. Write a program to create a form for calculating simple interest in one ASP.NET page and display it in another.
 
 **Group C – Attempt any TWO questions. \[2x10 = 20]**
+
 8. a) What is SystemException? Write a C# program that reads balance and withdrawal amount; throw ApplicationException if withdrawal > balance.
    b) List five LINQ standard operators. Write a C# program to sort employees by salary descending using LINQ.
 
@@ -57,6 +59,7 @@
 7. What is a lambda expression? Explain types used in C# with examples.
 
 **Group C – Attempt any TWO questions. \[2x10 = 20]**
+
 8. a) Write a program to create user registration form in one ASP.NET page and display filled data in another.
    b) Write a program to handle exception in ASP.NET.
 
