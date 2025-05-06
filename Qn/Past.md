@@ -1,4 +1,5 @@
 
+
 ---
 
 ### 📘 **DotNet Technology – 2024 (Tribhuwan University)**
@@ -17,9 +18,9 @@
    c) Lambda Expression
 
 **Group C – Attempt any TWO questions. \[2x10 = 20]**
-8\. Differentiate between struct and enum. Why handle exceptions? Illustrate with your own custom exception.
-9\. What is generics? Explain with example. How is virtual method used to achieve polymorphism?
-10\. What is DataReader in ADO.NET? Design an application scenario.
+8. Differentiate between struct and enum. Why handle exceptions? Illustrate with your own custom exception.
+9. What is generics? Explain with example. How is virtual method used to achieve polymorphism?
+10. What is DataReader in ADO.NET? Design an application scenario.
 
 ---
 
@@ -36,9 +37,11 @@
 7. Write a program to create a form for calculating simple interest in one ASP.NET page and display it in another.
 
 **Group C – Attempt any TWO questions. \[2x10 = 20]**
-8\. a) What is SystemException? Write a C# program that reads balance and withdrawal amount; throw ApplicationException if withdrawal > balance.
+8. 
+a) What is SystemException? Write a C# program that reads balance and withdrawal amount; throw ApplicationException if withdrawal > balance.
 b) List five LINQ standard operators. Write a C# program to sort employees by salary descending using LINQ.
-9\. What are different types of delegates in C#? Write a C# program to create a class using delegate.
+
+9. What are different types of delegates in C#? Write a C# program to create a class using delegate.
 
 ---
 
@@ -55,11 +58,13 @@ b) List five LINQ standard operators. Write a C# program to sort employees by sa
 7. What is a lambda expression? Explain types used in C# with examples.
 
 **Group C – Attempt any TWO questions. \[2x10 = 20]**
-8\. a) Write a program to create user registration form in one ASP.NET page and display filled data in another.
-b) Write a program to handle exception in ASP.NET.
-9\. a) How is virtual method used for dynamic binding in C#? Explain with program.
-b) Define operator overloading. Write a C# program to overload binary operator.
-10\. a) What is LINQ? Write a program to select employees with salary > 20000 and address = Kathmandu using LINQ.
-b) Write a C# program to show insert and select operations in a database.
+8. a) Write a program to create user registration form in one ASP.NET page and display filled data in another.
+   b) Write a program to handle exception in ASP.NET.
+
+9. a) How is virtual method used for dynamic binding in C#? Explain with program.
+   b) Define operator overloading. Write a C# program to overload binary operator.
+   
+10. a) What is LINQ? Write a program to select employees with salary > 20000 and address = Kathmandu using LINQ.
+    b) Write a C# program to show insert and select operations in a database.
 
 ---
