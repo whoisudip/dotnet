@@ -1,4 +1,35 @@
+TRIBHUVAN UNIVERSITY
+2018
 
+Group B
+
+Attempt any Six questions :
+[5x6=30]
+
+2. What is CLR? List and explain the features of CLR.
+
+3. What do you mean by value type and reference type? Give an example for each.
+
+4. What is an interface? How interface is used in multiple inheritance? Explain with example.
+
+5. Why namespace is used in C#? How to create and use the namespace in C#? Explain with example.
+
+6. What is an Exception? Write a program to generate divide by zero exception and index out of range exception and also handle these exceptions.
+
+7. What is a Query expression? Write a C# program to select Students who are lived in Kirtipur and studied in Patan Multiple Campus using LINQ.
+
+8. What do you mean by static class and constructor? Explain with suitable example.
+
+Group C
+
+Attempt any Two questions:
+[10x2=20]
+
+9. What do you mean by operator overloading? Write a C# program to demonstrate binary and relational operator overloading.
+
+10. Explain difference between ExecuteReader and ExecuteNonQuery. Provided that a mysql database named "Company" with table named "Product" with following columns (ProductId as int, ProductName as varchar(20), and UnitPrice as float). Write a c# program to connect to the database and display product records that have UnitPrice is greater than RS. 1000 and update the product record (such as UnitPrice=4500) from product database whose ProductId=50.
+
+11. What is web server control in ASP.NET? List few web server control used in ASP.NET. Write a program to create student registration form in one ASP.NET page and display the filled data with another page.
 
 ---
 
