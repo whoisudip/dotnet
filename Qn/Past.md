@@ -37,9 +37,8 @@
 7. Write a program to create a form for calculating simple interest in one ASP.NET page and display it in another.
 
 **Group C – Attempt any TWO questions. \[2x10 = 20]**
-8. 
-a) What is SystemException? Write a C# program that reads balance and withdrawal amount; throw ApplicationException if withdrawal > balance.
-b) List five LINQ standard operators. Write a C# program to sort employees by salary descending using LINQ.
+8. a) What is SystemException? Write a C# program that reads balance and withdrawal amount; throw ApplicationException if withdrawal > balance.
+   b) List five LINQ standard operators. Write a C# program to sort employees by salary descending using LINQ.
 
 9. What are different types of delegates in C#? Write a C# program to create a class using delegate.
 
